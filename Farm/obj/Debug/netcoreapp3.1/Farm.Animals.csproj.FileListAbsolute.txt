@@ -1,0 +1,5 @@
+C:\Users\allst\source\repos\Farm\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.Animals.csprojAssemblyReference.cache
+C:\Users\allst\source\repos\Farm\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.Animals.csproj.CoreCompileInputs.cache
+C:\Users\allst\source\repos\Farm\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.Animals.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\allst\source\repos\Farm\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.Animals.AssemblyInfoInputs.cache
+C:\Users\allst\source\repos\Farm\Farm\Farm\obj\Debug\netcoreapp3.1\Farm.Animals.AssemblyInfo.cs

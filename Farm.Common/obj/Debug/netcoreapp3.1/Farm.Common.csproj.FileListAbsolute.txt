@@ -1,0 +1,9 @@
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\bin\Debug\netcoreapp3.1\Farm.Common.deps.json
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\bin\Debug\netcoreapp3.1\Farm.Common.dll
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\obj\Debug\netcoreapp3.1\Farm.Common.AssemblyInfoInputs.cache
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\obj\Debug\netcoreapp3.1\Farm.Common.AssemblyInfo.cs
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\obj\Debug\netcoreapp3.1\Farm.Common.csprojAssemblyReference.cache
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\bin\Debug\netcoreapp3.1\Farm.Common.pdb
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\obj\Debug\netcoreapp3.1\Farm.Common.csproj.CoreCompileInputs.cache
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\obj\Debug\netcoreapp3.1\Farm.Common.dll
+C:\Users\allst\source\repos\Farm\Farm\Farm.Common\obj\Debug\netcoreapp3.1\Farm.Common.pdb
