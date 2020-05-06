@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm.Tracker", "Farm\Farm.Tracker.csproj", "{B7EA7535-6FF2-49B0-AA63-679778FA3345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm.Tracker", "Farm\Farm.Tracker.csproj", "{B7EA7535-6FF2-49B0-AA63-679778FA3345}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{3623C38A-898D-4DB0-849B-06C5A4B51073}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{FE9DD061-0C6D-44BA-9F2B-FF3C3C5E9970}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm.Common", "Farm.Common\Farm.Common.csproj", "{5557FFE1-F49E-442B-A4C2-0BE23EC54D34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm.Common", "Farm.Common\Farm.Common.csproj", "{5557FFE1-F49E-442B-A4C2-0BE23EC54D34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm.Models", "Farm.Models\Farm.Models.csproj", "{303507E7-1031-4BD3-ABC9-2BF2E3497442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm.Models", "Farm.Models\Farm.Models.csproj", "{303507E7-1031-4BD3-ABC9-2BF2E3497442}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{60834967-6CAA-402B-B75B-C326BA716A15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm.Common.Tests", "Farm.Common.Tests\Farm.Common.Tests.csproj", "{38D85CAB-6AEB-4DC1-B470-CCBBD1045691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm.Common.Tracker.Tests", "Farm.Common.Tracker.Tests\Farm.Common.Tracker.Tests.csproj", "{06967D8E-0273-47A0-AC1D-01F31555043F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,14 @@ Global
 		{303507E7-1031-4BD3-ABC9-2BF2E3497442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{303507E7-1031-4BD3-ABC9-2BF2E3497442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{303507E7-1031-4BD3-ABC9-2BF2E3497442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D85CAB-6AEB-4DC1-B470-CCBBD1045691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D85CAB-6AEB-4DC1-B470-CCBBD1045691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D85CAB-6AEB-4DC1-B470-CCBBD1045691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D85CAB-6AEB-4DC1-B470-CCBBD1045691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06967D8E-0273-47A0-AC1D-01F31555043F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06967D8E-0273-47A0-AC1D-01F31555043F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06967D8E-0273-47A0-AC1D-01F31555043F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06967D8E-0273-47A0-AC1D-01F31555043F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +53,8 @@ Global
 		{B7EA7535-6FF2-49B0-AA63-679778FA3345} = {3623C38A-898D-4DB0-849B-06C5A4B51073}
 		{5557FFE1-F49E-442B-A4C2-0BE23EC54D34} = {FE9DD061-0C6D-44BA-9F2B-FF3C3C5E9970}
 		{303507E7-1031-4BD3-ABC9-2BF2E3497442} = {FE9DD061-0C6D-44BA-9F2B-FF3C3C5E9970}
+		{38D85CAB-6AEB-4DC1-B470-CCBBD1045691} = {60834967-6CAA-402B-B75B-C326BA716A15}
+		{06967D8E-0273-47A0-AC1D-01F31555043F} = {60834967-6CAA-402B-B75B-C326BA716A15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {123F897C-6720-447D-A928-7571F53566E4}
